@@ -1,0 +1,675 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Florent\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Florent\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_MonoGame_Tutorials.-915321638.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Florent\RiderProjects\MonoGame_Tutorials\MonoGame_Tutorials" t="IncludeFlat">
+      <e p="MonoGame_Tutorials.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Tutorial001" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tutorial001.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial002" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tutorial002.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial003" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprite.cs" t="Include" />
+        <e p="Tutorial003.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial004" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Input.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprite.cs" t="Include" />
+        <e p="Tutorial004.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial005" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprite.cs" t="Include" />
+        <e p="Tutorial005.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial006" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Bullet.cs" t="Include" />
+          <e p="Ship.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial006.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial007" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Input.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Bomb.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial007.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial008" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Input.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial008.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial009" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Input.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial009.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial010" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Input.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Score.cs" t="Include" />
+        <e p="Sprites" t="Include">
+          <e p="Ball.cs" t="Include" />
+          <e p="Bat.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial010.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial011" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Managers" t="Include">
+          <e p="AnimationManager.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Animation.cs" t="Include" />
+          <e p="Input.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial011.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial012" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Controls" t="Include">
+          <e p="Button.cs" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tutorial012.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial013" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Controls" t="Include">
+          <e p="Button.cs" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="States" t="Include">
+          <e p="GameState.cs" t="Include" />
+          <e p="MenuState.cs" t="Include" />
+          <e p="State.cs" t="Include" />
+        </e>
+        <e p="Tutorial013.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial014" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="Camera.cs" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial014.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial015" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Controls" t="Include">
+          <e p="Button.cs" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Managers" t="Include">
+          <e p="ScoreManager.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Score.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tutorial015.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial016" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tutorial016.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial017" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="Camera.cs" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tutorial017.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial018" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial018.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial019" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Bullet.cs" t="Include" />
+          <e p="Ship.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial019.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial020" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Controls" t="Include">
+          <e p="Button.cs" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Managers" t="Include">
+          <e p="AnimationManager.cs" t="Include" />
+          <e p="EnemyManager.cs" t="Include" />
+          <e p="ScoreManager.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Animation.cs" t="Include" />
+          <e p="Input.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Bullet.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="Explosion.cs" t="Include" />
+          <e p="ICollidable.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Ship.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="States" t="Include">
+          <e p="GameState.cs" t="Include" />
+          <e p="HighscoresState.cs" t="Include" />
+          <e p="MenuState.cs" t="Include" />
+          <e p="State.cs" t="Include" />
+        </e>
+        <e p="Tutorial020.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial021" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial021.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial022" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial022.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial023" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Misc" t="Include">
+          <e p="ScrollingBackground.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial023.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial024" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Emitters" t="Include">
+          <e p="Emitter.cs" t="Include" />
+          <e p="SnowEmitter.cs" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial024.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial025" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Helpers.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Attributes.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial025.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial026" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Helpers.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="IMoveable.cs" t="Include" />
+        </e>
+        <e p="Managers" t="Include">
+          <e p="AttributesManager.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Attributes.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Platform.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PowerUp.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="Tutorial026.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial029" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Controls" t="Include">
+          <e p="Button.cs" t="Include" />
+          <e p="LevelSelector.cs" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Misc" t="Include">
+          <e p="ScrollingBackground.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="GameModel.cs" t="Include" />
+          <e p="LevelModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="States" t="Include">
+          <e p="LevelSelectionState.cs" t="Include" />
+          <e p="State.cs" t="Include" />
+        </e>
+        <e p="Tutorial029.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tutorial030" t="IncludeRecursive">
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Content" t="Include">
+          <e p="Content.mgcb" t="Include" />
+        </e>
+        <e p="Controls" t="Include">
+          <e p="Button.cs" t="Include" />
+        </e>
+        <e p="Emitters" t="Include">
+          <e p="Emitter.cs" t="Include" />
+          <e p="SnowEmitter.cs" t="Include" />
+        </e>
+        <e p="Game1.cs" t="Include" />
+        <e p="Helpers.cs" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="IMoveable.cs" t="Include" />
+        </e>
+        <e p="Managers" t="Include">
+          <e p="AnimationManager.cs" t="Include" />
+        </e>
+        <e p="Misc" t="Include">
+          <e p="ScrollingBackground.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Animation.cs" t="Include" />
+          <e p="Attributes.cs" t="Include" />
+          <e p="GameModel.cs" t="Include" />
+          <e p="LevelModel.cs" t="Include" />
+          <e p="PlayerModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Particle.cs" t="Include" />
+          <e p="Platform.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PowerUp.cs" t="Include" />
+          <e p="Sprite.cs" t="Include" />
+        </e>
+        <e p="States" t="Include">
+          <e p="CustomiseState.cs" t="Include" />
+          <e p="LevelSelectorState.cs" t="Include" />
+          <e p="PlayingState.cs" t="Include" />
+          <e p="State.cs" t="Include" />
+        </e>
+        <e p="Tutorial030.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Utilities" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Utilities.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
